@@ -43,7 +43,6 @@ for dir in "${DIRECTORIES[@]}"; do
 done
 
 
-
 # Create the Michael's resource file for InteniThrive
 
 # Output file for this specific directory
